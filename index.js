@@ -42,3 +42,6 @@ managersJSON = new Maneger.map([
   ("Adel", "IT", "2026", "2200", 30),
 ]);
 console.log(idBadge(employeesJSON.forEach()));
+const superHeroes = "developers";
+
+managersJSON.filter((n) => n > n.yearJoined);
